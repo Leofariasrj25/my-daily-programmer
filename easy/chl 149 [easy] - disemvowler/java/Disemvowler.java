@@ -1,6 +1,5 @@
 //reddit thread: https://www.reddit.com/r/dailyprogrammer/comments/1ystvb/022414_challenge_149_easy_disemvoweler/
 
-package br.com.lfsantos.dailyprog.easy.chl149;
 import java.util.Scanner;
 
 public class Disemvowler {

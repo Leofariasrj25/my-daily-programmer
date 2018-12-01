@@ -1,14 +1,5 @@
 // reddit thread: https://www.reddit.com/r/dailyprogrammer/comments/1fnutb/06413_challenge_128_easy_sumthedigits_part_ii/
 
-/*
-    Given a well-formed (non-empty, fully valid) string of digits, 
-   let the integer N be the sum of digits. Then, given this integer N, 
-   turn it into  a string of digits. Repeat this process until you only have one digit left.
-*/
-
-
-package br.com.lfsantos.dailyprogrammer.easy.chl128;
-
 public class AddDigitsOfString {
     
     public static void main(String[] args) {
